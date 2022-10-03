@@ -29,7 +29,7 @@ Se quiser interagir comigo, entre em contato pelo Linkedin, E-mail ou Instagram 
 
  <div align="center">
  <a href="https://www.linkedin.com/in/fabio-petriw-2b5208250/" target="_blank"><img align="center" alt="40" width="50" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a>   
- <a href="fabiopetriw13112004@gmail.com" target="_blank"><img align="center" alt="50" width="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a> 
+ <a href="malito:fabiopetriw13112004@gmail.com" target="_blank"><img align="center" alt="50" width="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a> 
  <a href="https://www.instagram.com/fabiopetriw/" target="_blank"><img  align="center"  src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width='50' style="max-width:100%;"/></a> 
  </div>
  
