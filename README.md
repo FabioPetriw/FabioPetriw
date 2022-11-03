@@ -35,11 +35,5 @@ Se quiser interagir comigo, entre em contato pelo Linkedin, E-mail ou Instagram 
  </div>
  
  </br>
- 
-<div align="center"> 
-   
-   ![Snake animation](https://github.com/FabioPetriw/FabioPetriw/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <p align="center">Já me segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
