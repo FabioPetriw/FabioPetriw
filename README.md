@@ -23,8 +23,8 @@
  
 Olá, sou Fabio Petriw. 
  
-Apaixonado por Games e Tecnologia, iniciei os estudos na área da programação com o objetivo de especializar-me em Desenvolvimento Front-End. Atualmente estudando HTML, CSS e JavaScript.
-
+Apaixonado por Games e Tecnologia, iniciei os estudos na área da programação com o objetivo de especializar-me em Desenvolvimento Front-End atualmente estudando HTML, CSS e JavaScript.
+Batendo cabeça e aprendendo tem sido o meu lema, buscando abrangir mais conhecimento com diversos mentores, mais seguindo os passos do melhor deles, meu grande Irmão <3.
  
 Se tiver alguma dica, ou queira interagir comigo, entre em contato pelo Instagram, ou E-mail.
  
