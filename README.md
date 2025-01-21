@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo(a) ao meu perfil! 😁</h1>
 - 👋 Olá, eu me chamo Fabio Petriw 😃️</br>
 - 👀 Aspirante a Desenvolvedor Front-End.</br>
-- 🌱 Início aos estudos de HTML, CSS, JS</br>
+- 🌱 Início aos estudos de HTML, CSS, JavaScript</br>
 
 </br>
 
@@ -21,7 +21,7 @@
  <br>
 
  
-Apaixonado por Games e Tecnologia, iniciei os estudos na área da programação com o objetivo de especializar-me em Desenvolvimento Front-End atualmente estudando HTML, CSS e JavaScript, com a meta de me tornar um Programador FullStack
+Apaixonado por Games e Tecnologia, iniciei os estudos na área da programação com o objetivo de especializar-me em Desenvolvimento Front-End atualmente estou estudando HTML, CSS e JavaScript, com a meta de me tornar um Programador FullStack! <br>
 Desafios diários tem sido o meu lema, buscando abrangir mais conhecimento com diversos mentores, mais seguindo os passos do melhor deles, meu grande Irmão <3.
  
 Se tiver alguma dica, ou queira interagir comigo, entre em contato pelo Instagram, ou E-mail.
