@@ -14,25 +14,29 @@
 <div div align="center"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
  
  <br>
  
- <h1 align="center">Conecte-se comigo:</h1>
  
 Olá, sou Fabio Petriw. 
  
-Apaixonado por Games e Tecnologia, iniciei os estudos na área da programação com o objetivo de especializar-me em Desenvolvimento Front-End atualmente estudando HTML, CSS e JavaScript.
-Batendo cabeça e aprendendo tem sido o meu lema, buscando abrangir mais conhecimento com diversos mentores, mais seguindo os passos do melhor deles, meu grande Irmão <3.
+Apaixonado por Games e Tecnologia, iniciei os estudos na área da programação com o objetivo de especializar-me em Desenvolvimento Front-End atualmente estudando HTML, CSS e JavaScript, com a meta de me tornar um Programador FullStack
+Desafios diários tem sido o meu lema, buscando abrangir mais conhecimento com diversos mentores, mais seguindo os passos do melhor deles, meu grande Irmão <3.
  
 Se tiver alguma dica, ou queira interagir comigo, entre em contato pelo Instagram, ou E-mail.
+
+
+ <h1 align="center">Conecte-se comigo:</h1>
  
 
- <div align="center">
- <a href="malito:fabiopetriw13112004@gmail.com" target="_blank"><img align="center" alt="50" width="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a> 
- <a href="https://www.instagram.com/fabiopetriw/" target="_blank"><img  align="center"  src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width='50' style="max-width:100%;"/></a> 
- </div>
+ <div> 
+  <a href="https://www.instagram.com/fabiopetriw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pf.fabiopetriw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabio-petriw-b84981347/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
  
  </br>
 
