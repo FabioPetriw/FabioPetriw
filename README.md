@@ -16,7 +16,7 @@
  <br>
 
  
-Apaixonado por Games e Tecnologia, iniciei os estudos na área da programação com o objetivo de especializar-me em Desenvolvimento Front-End atualmente estou estudando HTML, CSS e JavaScript, com a meta de me tornar um Programador FullStack! <br>
+Apaixonado por games e tecnologia, iniciei os estudos na área da programação com o objetivo de especializar-me em Desenvolvimento Front-End, atualmente estou estudando HTML, CSS e JavaScript, com a meta de me tornar um Programador FullStack! <br>
 Desafios diários tem sido o meu lema, buscando abrangir mais conhecimento com diversos mentores, mais seguindo os passos do melhor deles, meu grande Irmão <3.
  
 Se tiver alguma dica, ou queira interagir comigo, entre em contato pelo Instagram, ou E-mail.
@@ -33,4 +33,4 @@ Se tiver alguma dica, ou queira interagir comigo, entre em contato pelo Instagra
  
  </br>
 
-<p align="center">Já me segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+<p align="center">Já me segue aí e vem codar comigo, tua contribuição será muito bem vinda! 😉️</h2>
